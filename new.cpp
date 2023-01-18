@@ -1,7 +1,10 @@
 #include<iostream>
 using namespace std;
 
-
+class B{
+    int a ;
+    int b;
+};
 
 class A{
     public:
